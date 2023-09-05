@@ -20,8 +20,8 @@ void PrintMax(const std::array<int, T > &targetArr) {
 
 int main(){
     std::array<int,5>arr={1,-6,0,99,15};
-    PrintMax(arr); // max is 99
     std::array<int,7>arr2={-80,-6,-585,-63,-15000,-33,-7};
+    PrintMax(arr); // max is 99
     PrintMax(arr2); // max is -6
     return 0;
 }
