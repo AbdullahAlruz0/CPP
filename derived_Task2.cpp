@@ -1,7 +1,7 @@
 /**
  * @file derived_Task2.cpp
  * @author Abdullah Alruz 
- * @brief 
+ * @brief This program reads an int input from the user and searches about it in a pre-defined array using <algorithm>.
  * @version 0.1
  * @date 2023-09-05
  * 
